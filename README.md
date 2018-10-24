@@ -1,4 +1,4 @@
-# 🌮 numerus unus app
+# 🌮 Numerus unus app
 Another one hello world.
 
 <img src="https://github.com/sadovnik/numerus-unus-app/blob/master/github/screenshot.PNG?raw=true" height="532px"/>
