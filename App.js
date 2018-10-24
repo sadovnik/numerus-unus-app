@@ -4,7 +4,7 @@ import { ActivityIndicator, ScrollView } from 'react-native'
 import User from './entities/User'
 import UserBar from './components/UserBar'
 import PointChargeConditionList from './components/PointChargeConditionList'
-import fetchPointChargeItems from './app/fetchPointChargeItems'
+import fetchPointChargeItems from './lib/fetchPointChargeItems'
 
 export default class App extends Component {
   constructor (props) {
